@@ -86,9 +86,9 @@ I’m hoping this GitHub portfolio will gradually evolve into my own website, as
 
 ---
 ## Additional Info
-![Russian](https://img.shields.io/badge/Russian-native-6D28D9?style=flat-square&logoColor=white)
-![English](https://img.shields.io/badge/English-fluent-6D28D9?style=flat-square&logoColor=white)
-![IELTS](https://img.shields.io/badge/IELTS-7.5%20(C1)-6D28D9?style=flat-square&logoColor=white)
+![Russian](https://img.shields.io/badge/Russian-native-FF7F7F?style=flat-square&logoColor=white)
+![English](https://img.shields.io/badge/English-fluent-FF7F7F?style=flat-square&logoColor=white)
+![IELTS](https://img.shields.io/badge/IELTS-7.5%20(C1)-FF7F7F?style=flat-square&logoColor=white)
 
 ### IMA Graduate Prize for Outstanding Performance on Mathematical Qualification
 Course Representative for Mathematics and Mathematics with Economics (Level 5 and 6)  
