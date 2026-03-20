@@ -36,7 +36,7 @@ I’m hoping this GitHub portfolio will gradually evolve into my own website, as
 </details>
 
 <details open>
-  <summary><strong>Data & Analytics</strong></summary>
+  <summary><strong>Libraries</strong></summary>
   <br>
 
   ![Pandas](https://img.shields.io/badge/-Pandas-3B4252?style=flat-square&logo=pandas&logoColor=150458)
@@ -49,7 +49,7 @@ I’m hoping this GitHub portfolio will gradually evolve into my own website, as
 </details>
 
 <details open>
-  <summary><strong>Tools</strong></summary>
+  <summary><strong>Data&Analytics</strong></summary>
   <br>
 
   ![Excel](https://img.shields.io/badge/-Excel-3B4252?style=flat-square&logo=microsoftexcel&logoColor=217346)
