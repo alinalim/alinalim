@@ -7,13 +7,14 @@
     </td>
     <td width="58%" valign="top">
 
-## About Me
+## About Me:)
 
 I’m an MSc Data Science and Artificial Intelligence graduate with a background in Mathematics with Economics.
+I’m interested in working with financial and economic data, especially where statistical modelling and data anlysis can help explain risk, pricing and real-world behaviour.
+I truly enjoy using data to understand how real systems behave and how quantitative analysis can support better decisions within any filed or industry. 
 
-I’m interested in working with financial and economic data, especially where statistical modelling can help explain risk, pricing and real-world behaviour.
-
-I enjoy using data to understand how real systems behave and how quantitative analysis can support better decisions regardless of the field.
+Alongside this, I’ve always been drawn to more creative work. In my free time I tend to gravitate towards anything visual or artsy, from design ideas to experimenting with digital projects.
+I’m hoping this GitHub portfolio will gradually evolve into my own website, as a way to bring together both sides of me, analytical and creative, into one space.
 
    </td>
   </tr>
@@ -89,6 +90,6 @@ I enjoy using data to understand how real systems behave and how quantitative an
 ![English](https://img.shields.io/badge/English-fluent-6D28D9?style=flat-square&logoColor=white)
 ![IELTS](https://img.shields.io/badge/IELTS-7.5%20(C1)-6D28D9?style=flat-square&logoColor=white)
 
-IMA Graduate Prize for Outstanding Performance on Mathematical Qualification
+### IMA Graduate Prize for Outstanding Performance on Mathematical Qualification
 Course Representative for Mathematics and Mathematics with Economics (Level 5 and 6)  
 Gardening Volunteer, University of Liverpool
