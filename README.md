@@ -1,4 +1,4 @@
-# Hi! I'm Alina 🌸
+# Hi! I'm Alina
 
 <table>
   <tr>
