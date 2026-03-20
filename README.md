@@ -84,20 +84,11 @@ I enjoy using data to understand how real systems behave and how quantitative an
 </details>
 
 ---
+## Additional Info
+![Russian](https://img.shields.io/badge/Russian-native-6D28D9?style=flat-square&logoColor=white)
+![English](https://img.shields.io/badge/English-fluent-6D28D9?style=flat-square&logoColor=white)
+![IELTS](https://img.shields.io/badge/IELTS-7.5%20(C1)-6D28D9?style=flat-square&logoColor=white)
 
-## Additional
-
-<p>
-  <span style="color:#A78BFA; font-size:18px; font-weight:600;">Russian (native)</span><br>
-  <span style="color:#A78BFA; font-size:18px; font-weight:600;">English (fluent)</span><br>
-  <span style="color:#A78BFA; font-size:18px; font-weight:600;">IELTS 7.5 (C1)</span>
-</p>
-
-<p>
-  <span style="color:#C4B5FD; font-size:20px; font-weight:700;">
-    IMA Graduate Prize for Outstanding Performance on Mathematical Qualification
-  </span>
-</p>
-
+IMA Graduate Prize for Outstanding Performance on Mathematical Qualification
 Course Representative for Mathematics and Mathematics with Economics (Level 5 and 6)  
 Gardening Volunteer, University of Liverpool
