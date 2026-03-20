@@ -80,7 +80,6 @@ I’m hoping this GitHub portfolio will gradually evolve into my own website, as
   <br>
 
   ![Git](https://img.shields.io/badge/-Git-3B4252?style=flat-square&logo=git&logoColor=F05032)
-  ![Firebase](https://img.shields.io/badge/-Firebase-3B4252?style=flat-square&logo=firebase&logoColor=FFCA28)
 
 </details>
 
@@ -90,6 +89,6 @@ I’m hoping this GitHub portfolio will gradually evolve into my own website, as
 ![English](https://img.shields.io/badge/English-fluent-FF7F7F?style=flat-square&logoColor=white)
 ![IELTS](https://img.shields.io/badge/IELTS-7.5%20(C1)-FF7F7F?style=flat-square&logoColor=white)
 
-### IMA Graduate Prize for Outstanding Performance on Mathematical Qualification
+IMA Graduate Prize for Outstanding Performance on Mathematical Qualification
 Course Representative for Mathematics and Mathematics with Economics (Level 5 and 6)  
 Gardening Volunteer, University of Liverpool
