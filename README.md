@@ -1,4 +1,4 @@
-# Hi! I'm Alina ⭐️
+# Hi! I'm Alina 🌸
 
 <table>
   <tr>
@@ -10,6 +10,7 @@
 ## About Me :)
 
 I’m an MSc Data Science and Artificial Intelligence graduate with a background in Mathematics with Economics.
+
 I’m interested in working with financial and economic data, especially where statistical modelling and data anlysis can help explain risk, pricing and real-world behaviour.
 I truly enjoy using data to understand how real systems behave and how quantitative analysis can support better decisions within any filed or industry. 
 
