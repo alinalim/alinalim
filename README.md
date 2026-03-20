@@ -20,7 +20,6 @@ I’m hoping this GitHub portfolio will gradually evolve into my own website, as
   </tr>
 </table>
 
----
 
 ## My Toolbox
 
@@ -83,8 +82,8 @@ I’m hoping this GitHub portfolio will gradually evolve into my own website, as
 
 </details>
 
----
 ## Additional Info
+
 ![Russian](https://img.shields.io/badge/Russian-native-FF7F7F?style=flat-square&logoColor=white)
 ![English](https://img.shields.io/badge/English-fluent-FF7F7F?style=flat-square&logoColor=white)
 ![IELTS](https://img.shields.io/badge/IELTS-7.5%20(C1)-FF7F7F?style=flat-square&logoColor=white)
@@ -92,3 +91,9 @@ I’m hoping this GitHub portfolio will gradually evolve into my own website, as
 IMA Graduate Prize for Outstanding Performance on Mathematical Qualification
 Course Representative for Mathematics and Mathematics with Economics (Level 5 and 6)  
 Gardening Volunteer, University of Liverpool
+
+## Contact
+
+Feel free to connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF7F7F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alina-alimova1107/)
