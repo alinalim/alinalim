@@ -7,7 +7,7 @@
     </td>
     <td width="58%" valign="top">
 
-## About Me:)
+## About Me :)
 
 I’m an MSc Data Science and Artificial Intelligence graduate with a background in Mathematics with Economics.
 I’m interested in working with financial and economic data, especially where statistical modelling and data anlysis can help explain risk, pricing and real-world behaviour.
