@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="42%" valign="top">
-      <img src="ascii-art.gif" width="100%" alt="ASCII art gif" />
+      <img src="ascii-art-3.gif" width="100%" alt="ASCII art gif" />
     </td>
     <td width="58%" valign="top">
 
