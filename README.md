@@ -90,7 +90,9 @@ I’m hoping this GitHub portfolio will gradually evolve into my own website, as
 ![IELTS](https://img.shields.io/badge/IELTS-7.5%20(C1)-FF7F7F?style=flat-square&logoColor=white)
 
 IMA Graduate Prize for Outstanding Performance on Mathematical Qualification
+
 Course Representative for Mathematics and Mathematics with Economics (Level 5 and 6)  
+
 Gardening Volunteer, University of Liverpool
 
 ## Contact
