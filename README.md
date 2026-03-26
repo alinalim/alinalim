@@ -11,11 +11,11 @@
 
 I’m an MSc Data Science and Artificial Intelligence graduate with a background in Mathematics with Economics.
 
-I’m interested in working with financial and economic data, especially where statistical modelling and data anlysis can help explain risk, pricing and real-world behaviour.
-I truly enjoy using data to understand how real systems behave and how quantitative analysis can support better decisions within any filed or industry. 
+I’m interested in working with financial and economic data, especially where statistical modelling and data anlysis can help explain patterns, risks and real-world behaviour.
+I truly enjoy using data to understand how real systems behave and how quantitative analysis can support better decisions across a range of indutries. 
 
-Alongside this, I’ve always been drawn to more creative work. In my free time I tend to gravitate towards anything visual or artsy, from design ideas to experimenting with digital projects.
-I’m hoping this GitHub portfolio will gradually evolve into my own website, as a way to bring together both sides of me, analytical and creative, into one space.
+Alongside this, I’ve always been drawn to more creative work. In my free time I tend to gravitate towards anything visual or artsy, and I enjoy bringing that perspective into the way I think and approach problems.
+I’m hoping this GitHub portfolio will gradually evolve into my own website, as a way to bring together both my analytical and creative sides into one space.
 
    </td>
   </tr>
